@@ -1,2 +1,0 @@
-# tooth-care-app
-toothcare
